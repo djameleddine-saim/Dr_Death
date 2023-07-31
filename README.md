@@ -72,22 +72,27 @@ Les questions qui pourraient être abordées lors de l'analyse des données sont
 
 ![Image](https://github.com/djameleddine-saim/Dr_Death/assets/115147662/bc5fe27b-9c78-494b-941a-79fe7b307732)
 
-Répartition des décès par tranche :
-![Image](https://github.com/djameleddine-saim/Dr_Death/assets/115147662/67a125d9-a673-4d1f-b2b2-43e5d6320308)
+## Répartition des décès par tranche :
+<img width="289" alt="Capture d'écran 2023-07-28 133342" src="https://github.com/djameleddine-saim/Dr_Death/assets/115147662/67a125d9-a673-4d1f-b2b2-43e5d6320308">
 
-Répartition de nombre de décès pour chaque lieu de décès :
-![Image](https://github.com/djameleddine-saim/Dr_Death/assets/115147662/14b065e5-834b-4c85-babf-e4fd5e276c55)
+## Répartition de nombre de décès pour chaque lieu de décès :
+<img width="289" alt="Capture d'écran 2023-07-28 133342" src="https://github.com/djameleddine-saim/Dr_Death/assets/115147662/14b065e5-834b-4c85-babf-e4fd5e276c55">
 
-pourcentage décès pour chaque sexe (hommes et femmes) :
-![Image](https://github.com/djameleddine-saim/Dr_Death/assets/115147662/286331a6-8d7f-4821-85a9-2b4bedb920c8) 
 
-pourcentage de décès pour chaque décisions (condamnation et Meurtre illégal) :
-![Image](https://github.com/djameleddine-saim/Dr_Death/assets/115147662/f4423500-48d9-4ca4-b405-a3ff5ec964be)
+## pourcentage décès pour chaque sexe (hommes et femmes) :
+<img width="289" alt="Capture d'écran 2023-07-28 133342" src="https://github.com/djameleddine-saim/Dr_Death/assets/115147662/286331a6-8d7f-4821-85a9-2b4bedb920c8">
 
-Répartition de sexe des décès au file des année :
-![Image](https://github.com/djameleddine-saim/Dr_Death/assets/115147662/4bf5d001-a724-4e2e-a508-a275e3e56aee)
 
-Répartition des valeurs "Shipman" et "Comparison" en fonction des heures de la journée :
-![Image](https://github.com/djameleddine-saim/Dr_Death/assets/115147662/fb84938e-2b6c-4382-ad60-1ce86d6263d2)
+## pourcentage de décès pour chaque décisions (condamnation et Meurtre illégal) :
+<img width="289" alt="Capture d'écran 2023-07-28 133342" src="https://github.com/djameleddine-saim/Dr_Death/assets/115147662/f4423500-48d9-4ca4-b405-a3ff5ec964be">
+
+
+## Répartition de sexe des décès au file des année :
+<img width="289" alt="Capture d'écran 2023-07-28 133342" src="https://github.com/djameleddine-saim/Dr_Death/assets/115147662/4bf5d001-a724-4e2e-a508-a275e3e56aee">
+
+
+## Répartition des valeurs "Shipman" et "Comparison" en fonction des heures de la journée :
+<img width="289" alt="Capture d'écran 2023-07-28 133342" src="https://github.com/djameleddine-saim/Dr_Death/assets/115147662/fb84938e-2b6c-4382-ad60-1ce86d6263d2">
+
 
 # Conclusion :
