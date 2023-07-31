@@ -96,3 +96,17 @@ Les questions qui pourraient être abordées lors de l'analyse des données sont
 
 
 # Conclusion :
+
+- Le total de décès était plus élevé pour les femmes (178) que pour les hommes (37).
+
+- Les groupes d'âge les plus touchés par les décès étaient les tranches d'âge des 70-74 ans, 75-79 ans, 80-84 ans et 85-89 ans.
+
+- La tranche d'âge 80-84 ans représentait la plus grande proportion de décès, soit environ 24,19% du nombre total de morts.
+
+- La plupart des décès se sont produits au domicile des victimes, avec moins de cas de décès à l'hôpital.
+
+- 93% des décès enregistrés ont été classés comme "Unlawful killing" (meurtre).
+
+- Globalement, les pourcentages de décès associés à Harold Shipman sont plus élevés que ceux associés à d'autres médecins.
+
+- Les heures où les pourcentages de décès associés à Harold Shipman sont les plus élevés semblent être autour de 14h00 et 15h00.
